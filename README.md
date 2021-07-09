@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KartikeSingh AKA Shisui
-- 👀 I’m interested in watching anime, reading manga and coding and chilling on discord
-- 🌱 I’m currently learning Node Canvas ( Practicing ) and soon Web Development
-
+- 👀 I’m interested in watching anime, reading manga and coding and chilling on discord, sometimes in studying too lol
+- 🌱 I’m currently learning Web Development and making npm packages lmao
 - 📫 You can talk to me on Discord in my server : https://discord.gg/ZWHb6sR
 
 <!---
