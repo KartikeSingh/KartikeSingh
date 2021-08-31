@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @KartikeSingh AKA Shisui
-- 👀 I’m interested in watching anime, reading manga and coding and chilling on discord, sometimes in studying too lol
-- 🌱 I’m currently learning Web Development and making npm packages lmao
-- 📫 You can talk to me on Discord in my server : https://discord.gg/ZWHb6sR
-
-<!---
-KartikeSingh/KartikeSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Shisui AKA Kartike
+- 👀 I’m interested in watching anime, reading manga and coding and chilling on discord, sometimes in studying too lol.
+- 🌱 I’m currently learning Web Development and making npm packages lmao, Some of my npm packages are listed below :
+    - https://www.npmjs.com/package/discord-slash-command-handler
+    - https://www.npmjs.com/package/discord-purger
+  
+- 📫 You can talk to me on Discord on my server : https://discord.gg/XYnMTQNTFh.
+- 🌩 My dream is to make stuff for users and developers for free :D
