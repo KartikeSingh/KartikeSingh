@@ -5,10 +5,11 @@ I like to make different things which can be helpful to others, and I also like 
 Oh i forgot i like to watch anime too.
 
 Nowdays I just chichat with friends on discord and roams here and there with irl friends xD, and yes I code shit.
+Btw I am practicing TypeScript :D
 
 ### Problems 😟
-- I do not have time lol help.
-- I am stupid and careless lol.
+- I do not have time ( lol help ).
+- I am hasty.
 
 ### Projects 🤓
 - Krazy Bot An Discord Bot, [Invite](https://discord.com/oauth2/authorize?client_id=743834886833438770&permissions=2130701559&scope=bot).
